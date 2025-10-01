@@ -68,5 +68,7 @@ Ensure this folder exists and the application has write permissions.
 - Swagger (Swashbuckle) for API documentation
 - Dependency Injection and repository/service pattern
 
+Borrow Table and Member Table as of now we re not using , its adding for design purpose for handling whole small library managment. CRUD fully developed for Books Table
+
 
 ***
