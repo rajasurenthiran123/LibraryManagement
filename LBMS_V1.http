@@ -1,0 +1,6 @@
+@LBMS_V1_HostAddress = http://localhost:5124
+
+GET {{LBMS_V1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
